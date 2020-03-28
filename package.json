@@ -1,0 +1,7 @@
+{
+  "name": "waterfall",
+  "version": "0.0.1",
+  "description": "A flexiable blog system for users like making notes, snippets and posts efficiently",
+  "main": "app.js",
+  "license": "MIT"
+}
